@@ -212,4 +212,4 @@ For issues or questions, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ by [Abhijeet Gupta](https://github.com/abhijeetgupta)**
+**(https://github.com/abhijeetgupta)**
